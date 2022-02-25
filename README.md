@@ -3,7 +3,7 @@ A sample ASP.NET Core 6 Jwt Token Authentication with auth api application and s
 
 If you set you environment to run both API projects you can use the Server to create a Jwt token and can the make a request with or without the token to the client.  If the token is valid you will receive a decoded breakdown.
 
-##Rider
+## Rider
 Run both projects by doing the following
 
 ![Compound Configuration](/readme/jwt - compound.png)

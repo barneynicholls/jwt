@@ -6,6 +6,8 @@ If you set you environment to run both API projects you can use the Server to cr
 ##Rider
 Run both projects by doing the following
 
+![Compound Configuration](/readme/jwt - compound.png)
+
 Run | Edit Configurations
 
 + Add New Configuration
